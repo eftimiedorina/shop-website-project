@@ -33,7 +33,6 @@
         margin-right: auto;
        
     }
-
     titlu {
         font-family: Verdana, Arial, sans- serif;
         font-size: 14px;
